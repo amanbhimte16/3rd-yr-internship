@@ -1,2 +1,2 @@
 # 3rd-yr-internship
-typescript
+Typescript
